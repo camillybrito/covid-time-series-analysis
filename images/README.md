@@ -1,17 +1,25 @@
 ## Resultados
 
-### Série Casos de COVID-19
+### Série Temporal de Casos de COVID-19
 
-![CASOS](images/casos_covid-19.png)
+<p align="center">
+  <img src="images/casos_covid-19.png" width="700">
+</p>
 
-### Série Óbitos de COVID-19
+### Série Temporal de Óbitos por COVID-19
 
-![OBITOS](images/obitos_covid-19.png)
+<p align="center">
+  <img src="images/obitos_covid-19.png" width="700">
+</p>
 
-### Previsão com modelo ARIMA
+### Previsão utilizando o modelo ARIMA
 
-![Previsão ARIMA](images/arima_casos.png)
+<p align="center">
+  <img src="images/arima_casos.png" width="700">
+</p>
 
-### Previsão com modelo ITS
+### Previsão utilizando o modelo ITS
 
-![PREVISÃO ITS](images/ITS_casos.png)
+<p align="center">
+  <img src="images/ITS_casos.png" width="700">
+</p>
