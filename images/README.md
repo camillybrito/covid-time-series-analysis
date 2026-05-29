@@ -2,11 +2,11 @@
 
 ### Série Casos de COVID-19
 
-
+![CASOS](images/casos_covid-19.png)
 
 ### Série Óbitos de COVID-19
 
-
+![OBITOS](images/obitos_covid-19.png)
 
 ### Previsão com modelo ARIMA
 
